@@ -56,5 +56,4 @@ while (option.toUpperCase() !== 'QUIT' ) {
 	else {
 		var option = prompt('Sorry, that command is not recognised. Please enter ADD, SUBTRACT, MULTIPLY or DIVIDE, or enter QUIT to exit the calculator.');
 	}
-};
-
+}
